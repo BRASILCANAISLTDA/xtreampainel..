@@ -1,0 +1,9 @@
+[[redirects]]
+  from = "/player_api.php"
+  to = "/.netlify/functions/player_api"
+  status = 200
+
+[[redirects]]
+  from = "/get.php"
+  to = "/.netlify/functions/player_api"
+  status = 200
