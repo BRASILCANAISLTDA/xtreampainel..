@@ -5,5 +5,5 @@
 
 [[redirects]]
   from = "/get.php"
-  to = "/.netlify/functions/player_api"
+  to = "/.netlify/functions/get_m3u"
   status = 200
